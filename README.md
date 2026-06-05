@@ -1,82 +1,137 @@
-<p align="center">
-  <img src="https://blog.lsonline.fr/content/images/2021/03/github-standard-banner-1.png" width="100%" />
-</p>
-<h1 align="center">Hi 👋, I'm Suhani Maurya</h1>
-<h3 align="center">Aspiring Software Engineer | HDCA certified | Applied Data Science with Python certified | Passionate about technology</h3>
-<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWpwY3U3bXRoY25qdjYxa3hhaDdiaHJrcGRxYzN3b2ZnZGNseTI0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
+<div align="center">
 
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Suhani%20Maurya&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%7C%20Full%20Stack%20Enthusiast&descAlignY=60&descColor=e0d7ff" width="100%"/>
 
-
-- 🌱 I’m currently learning **Backend Development**
-
-- 📫 How to reach me **suhanimaurya72@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/in/suhani-maurya-877916379" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/suhani-maurya-877916379" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/226003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="226003" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
-
-
-
-<a href="#" style="display:inline-block;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=600&height=60&lines=Full+Stack+Developer+in+the+Making+%F0%9F%9A%80;AI/ML+%7C+Python+%7C+JavaScript;Building+Real-World+Solutions+%F0%9F%94%A7;Open+to+Internships+%26+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
 </a>
 
-<a href="#" style="display:inline-block;">
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
-</a>
+<br/>
 
-<a href="#" style="display:inline-block;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+<!-- Profile Views + Social Badges -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=suhanimaurya7575&label=Profile%20Views&color=7C3AED&style=flat-square" alt="Profile Views"/>
+  &nbsp;
+  <a href="https://linkedin.com/in/suhani-maurya-877916379">
+    <img src="https://img.shields.io/badge/LinkedIn-Suhani%20Maurya-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+ <a href="mailto:suhanimaurya72@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-suhanimaurya72%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
-
-<a href="#" style="display:inline-block;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-</a>
-
-<a href="#" style="display:inline-block;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-</a>
-
-<a href="#" style="display:inline-block;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-</a>
-
-<a href="#" style="display:inline-block;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-</a>
-
-<a href="#" style="display:inline-block;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-</a>
-
-<a href="#" style="display:inline-block;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-</a>
-
-<a href="#" style="display:inline-block;">
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/>
-</a>
-
-<a href="#" style="display:inline-block;">
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-</a>
-
-<a href="#" style="display:inline-block;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-</a>
-
+  &nbsp;
+ 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suhanimaurya7575&show_icons=true&locale=en&layout=compact" alt="suhanimaurya7575" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suhanimaurya7575&show_icons=true&locale=en" alt="suhanimaurya7575" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suhanimaurya7575&" alt="suhanimaurya7575" /></p>
+## 👩‍💻 About Me
+
+```python
+class SuhaniMaurya:
+    def __init__(self):
+        self.name       = "Suhani Maurya"
+        self.role       = "Aspiring Software Engineer"
+        self.location   = "India 🇮🇳"
+        self.email      = "suhanimaurya72@gmail.com"
+
+    @property
+    def certifications(self):
+        return [
+            "🎓 HDCA Certified",
+            "📊 Applied Data Science with Python (Certified)"
+        ]
+
+    @property
+    def currently(self):
+        return {
+            "learning"    : "Backend Development",
+            "exploring"   : ["Spring Boot", "REST APIs", "System Design"],
+            "open_to"     : "Internships & Collaborations"
+        }
+
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🗄️ Backend & Databases
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🎨 Design & Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=suhanimaurya7575&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7C3AED&line=7C3AED&point=ffffff" alt="Activity Graph" width="100%"/>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```text
+Backend Development   ████████████░░░░░░░░   60%
+Data Structures       ████████████████░░░░   80%
+System Design         ████████░░░░░░░░░░░░   40%
+Open Source           ██████░░░░░░░░░░░░░░   30%
+```
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+I'm always open to exciting opportunities, collaborations, and tech conversations!
+
+<a href="mailto:suhanimaurya72@gmail.com">
+  <img src="https://img.shields.io/badge/Send%20me%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/suhani-maurya-877916379">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=100&section=footer" width="100%"/>
+
+</div>
+
+<!-- Snake animation (enable via GitHub Actions workflow) -->
+<!-- ![Snake animation](https://github.com/suhanimaurya7575/suhanimaurya7575/blob/output/github-contribution-grid-snake-dark.svg) -->
