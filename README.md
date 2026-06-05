@@ -105,7 +105,7 @@ class SuhaniMaurya:
 ## 🎯 Current Focus
 
 ```text
-Backend Development   ████████████░░░░░░░░   60%
+Full Stack Development   ████████████░░░░░░░░   60%
 Data Structures       ████████████████░░░░   80%
 System Design         ████████░░░░░░░░░░░░   40%
 Open Source           ██████░░░░░░░░░░░░░░   30%
