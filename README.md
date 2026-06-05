@@ -36,7 +36,7 @@ class SuhaniMaurya:
     def __init__(self):
         self.name       = "Suhani Maurya"
         self.role       = "Aspiring Software Engineer"
-        self.location   = "India 🇮🇳"
+        self.location   = "India"
         self.email      = "suhanimaurya72@gmail.com"
 
     @property
@@ -49,7 +49,7 @@ class SuhaniMaurya:
     @property
     def currently(self):
         return {
-            "learning"    : "Backend Development",
+            "learning"    : "Full Stack Development",
             "exploring"   : ["Spring Boot", "REST APIs", "System Design"],
             "open_to"     : "Internships & Collaborations"
         }
